@@ -14,6 +14,12 @@ Celebrating the Web days throughout the year.
 | ---- | ----- |
 | 9th  | [CSS Naked Day](https://css-naked-day.github.io/) |
 
+### May
+
+| Date | Event |
+| ---- | ----- |
+| 21st  | [Global Accessibility Awareness Day](https://globalaccessibilityawarenessday.org/) |
+
 ### November
 
 | Date | Event |
