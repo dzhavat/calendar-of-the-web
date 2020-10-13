@@ -1,4 +1,4 @@
-# Calendar of the Web
+# Calendar of the Web - 2020
 
 Celebrating the Web days throughout the year.
 
@@ -19,6 +19,12 @@ Celebrating the Web days throughout the year.
 | Date | Event |
 | ---- | ----- |
 | 21st  | [Global Accessibility Awareness Day](https://globalaccessibilityawarenessday.org/) |
+
+### October
+
+| Date | Event |
+| ---- | ----- |
+| 13th | [Ada Lovelace Day](https://findingada.com//) |
 
 ### November
 
