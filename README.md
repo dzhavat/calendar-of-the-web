@@ -2,11 +2,17 @@
 
 Celebrating the Web days throughout the year.
 
+### January
+
+| Date | Event |
+| ---- | ----- |
+| 28th | [Data Privacy Day](https://staysafeonline.org/data-privacy-day/) |
+
 ### March
 
 | Date | Event |
 | ---- | ----- |
-| 12th  | [The Web turns 31](https://en.wikipedia.org/wiki/World_Wide_Web) |
+| 12th | [The Web turns 32](https://en.wikipedia.org/wiki/World_Wide_Web) |
 
 ### April
 
@@ -18,7 +24,7 @@ Celebrating the Web days throughout the year.
 
 | Date | Event |
 | ---- | ----- |
-| 21st  | [Global Accessibility Awareness Day](https://globalaccessibilityawarenessday.org/) |
+| 21st | [Global Accessibility Awareness Day](https://globalaccessibilityawarenessday.org/) |
 
 ### October
 
@@ -30,4 +36,4 @@ Celebrating the Web days throughout the year.
 
 | Date | Event |
 | ---- | ----- |
-| 30th  | [Blue Beanie Day](https://en.wikipedia.org/wiki/Blue_Beanie_Day) |
+| 30th | [Blue Beanie Day](https://en.wikipedia.org/wiki/Blue_Beanie_Day) |
