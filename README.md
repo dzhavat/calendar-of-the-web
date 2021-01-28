@@ -1,4 +1,4 @@
-# Calendar of the Web - 2020
+# Calendar of the Web - 2021
 
 Celebrating the Web days throughout the year.
 
