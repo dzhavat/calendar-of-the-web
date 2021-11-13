@@ -36,7 +36,9 @@ Celebrating the Web days throughout the year.
 
 | Date | Event |
 | ---- | ---- |
-| 13th | [Ada Lovelace Day](https://findingada.com//) |
+| 1st-31st | [Hacktoberfest](https://hacktoberfest.digitalocean.com/) |
+| 1st-31st | [Divtober](https://a.singlediv.com/divtober2021/) |
+| 13th     | [Ada Lovelace Day](https://findingada.com//) |
 
 ### November
 
