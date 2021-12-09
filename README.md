@@ -45,3 +45,10 @@ Celebrating the Web days throughout the year.
 | Date | Event |
 | ---- | ---- |
 | 30th | [Blue Beanie Day](https://en.wikipedia.org/wiki/Blue_Beanie_Day) |
+
+### December
+
+| Date | Event |
+| ---- | ---- |
+| 4th  | [JavaScript turns 26](https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html) |
+| 17th | [CSS turns 25](https://www.w3.org/Press/CSS1-REC-PR.html) |
